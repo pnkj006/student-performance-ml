@@ -36,6 +36,17 @@ The dataset is sourced from Kaggle and contains features such as study hours, sl
 - Prediction on new custom inputs
 
 ---
+## 📊 Evaluation Metrics
+
+The Linear Regression model produced the following evaluation results:
+
+- **MSE (Mean Squared Error):** 4.0964  
+- **MAE (Mean Absolute Error):** 1.6138  
+- **RMSE (Root Mean Squared Error):** 2.0240  
+- **R² Score:** 0.9892  
+- **Adjusted R²:** 0.98918  
+
+These values indicate that the model fits the data extremely well, with very high explanatory power and low prediction error.
 
 ## 🛠️ Technologies Used
 - Python  
